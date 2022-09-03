@@ -113,4 +113,3 @@ public class ParkingSpotModel implements Serializable {
         this.block = block;
     }
 }
-}
